@@ -17,7 +17,7 @@ const SITE_CONFIG = {
     url: 'https://tv.100419.xyz',
     description: '免费在线视频搜索与观看平台',
     logo: 'image/logo.png',
-    version: '1.0.3'
+    version: '1.01.3'
 };
 
 // API站点配置
