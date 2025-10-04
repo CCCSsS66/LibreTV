@@ -69,7 +69,7 @@ const API_SITES = {
         name: '暴风资源',
     },
     tiantang: {
-        api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
+        api: 'http://caiji.dyttzyapi.com/',
         name: '电影天堂',
         detail: 'http://caiji.dyttzyapi.com'
     },
